@@ -6,6 +6,6 @@ Siéntete libre de publicar cualquier problema en la pestaña de **Issues**, de 
 
 ## ¿Cómo empezar?
 
-Si no conoces **Pico y Placa API** te dejo el link [aquí](https://rapidapi.com/tortutales/api/pico-y-placa-medellin/details)https://rapidapi.com/tortutales/api/pico-y-placa-medellin/details
+Si no conoces **Pico y Placa API** te dejo el link [aquí](https://rapidapi.com/tortutales/api/pico-y-placa-medellin/details)
 
 Dentro de RapidAPI también puedes contactarme via inbox, pero estoy más seguro de que estaré más activo aquí en GitHub
